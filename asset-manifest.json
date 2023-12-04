@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/management-app/static/css/main.82924003.css",
-    "main.js": "/management-app/static/js/main.1da44b12.js",
+    "main.css": "/management-app/static/css/main.e05e4ea0.css",
+    "main.js": "/management-app/static/js/main.a9e9505c.js",
     "index.html": "/management-app/index.html",
-    "main.82924003.css.map": "/management-app/static/css/main.82924003.css.map",
-    "main.1da44b12.js.map": "/management-app/static/js/main.1da44b12.js.map"
+    "main.e05e4ea0.css.map": "/management-app/static/css/main.e05e4ea0.css.map",
+    "main.a9e9505c.js.map": "/management-app/static/js/main.a9e9505c.js.map"
   },
   "entrypoints": [
-    "static/css/main.82924003.css",
-    "static/js/main.1da44b12.js"
+    "static/css/main.e05e4ea0.css",
+    "static/js/main.a9e9505c.js"
   ]
 }
